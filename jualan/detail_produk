@@ -13,26 +13,37 @@
           <button type="button" class="btn btn-lg btn-default">jual</button>
         </div><!--btn group-->
         <br><br>
+                <nav class="navbar navbar-default">
+          <div class="container-fluid">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="www.facebook.com">
+                <img alt="facebook" src="...">
+              </a>
+            </div>
+          </div>
+        </nav>
+        <br>
         </h3>
         <hr>
       </div><!-- btn container -->
     </div><!-- btn row awal -->
 <div class="row">
   <div class="container">
-    <div class="col-md-4"></div>
-        <div class="thumbnail">
-          <img src="..." alt="baju saya">
+    <div class="col-md-4">
+    <div class="thumbnail">
+          <img src="http://3.bp.blogspot.com/-khsXwgjbfAM/U5cUEE883XI/AAAAAAAASWI/PO5cJOotDI8/s1600/model-baju-batik-encim-nowela.jpg" alt="baju saya">
           <div class="caption">
             <h3>Rp 100.0000</h3>
             <p>harga pas</p>
             <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
           </div>
         </div>
-      </div>
     </div>
 
-  </div><!-- col-md-4+ -->
-  <div class="col-md-8"></div>
-</div><!-- col md-8 -->
+  <div class="col-md-8">
+    
+    </div><!-- col md-8 -->
+  </div> <!-- Container -->
+</div><!-- row awal2 -->
 </body>
 </html>
